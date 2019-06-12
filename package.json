@@ -1,8 +1,24 @@
 {
   "name": "otpublish",
-  "version": "0.0.1",
-  "description": "Generate a TOTP code to publish on NPM",
+  "version": "1.0.0",
+  "description": "CLI to generate a OTP code to publish on NPM with 2FA",
   "main": "index.js",
+  "keywords": [
+    "cli",
+    "otp",
+    "totp",
+    "2fa",
+    "npm-publish"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/47ng/otpublish"
+  },
+  "author": {
+    "name": "François Best",
+    "email": "contact@francoisbest.com",
+    "url": "https://francoisbest.com"
+  },
   "license": "MIT",
   "dependencies": {
     "otplib": "^11.0.1"
