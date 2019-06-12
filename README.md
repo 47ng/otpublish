@@ -1,4 +1,4 @@
-# `otpublish`
+# ⏱️🔐 `otpublish`
 
 Generate a OTP token to publish on NPM with 2FA protection.
 
