@@ -14,6 +14,9 @@
     "type": "git",
     "url": "https://github.com/47ng/otpublish"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "author": {
     "name": "François Best",
     "email": "contact@francoisbest.com",
